@@ -87,7 +87,7 @@ img {
     border-radius: 100px;
 }
 section img {
-    float:none;
+    float:inline-start;
 }
 /* Mobile Phones */
 @media screen and (max-device-size:646px) {
