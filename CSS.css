@@ -74,8 +74,8 @@ section {
 }
 table  {
     background-color: rgba(255, 214, 214, 0) ;
-    float: left;
     width: 50%;
+    height: 50%;
 }
 th, td {
   padding: 10px;
@@ -84,11 +84,9 @@ th, td {
   background-color: rgb(52, 93, 147);
 }
 img {
-    float: right;
     border-radius: 100px;
 }
 section img {
-    float:inline-start;
     object-fit: contain;
 }
 /* Mobile Phones */
