@@ -1,6 +1,5 @@
 /* CSS */
 
-/*Overall Styling: */
 html {
     background-color: rgba(178, 174, 164, 0.74);
     border:70px solid;
@@ -52,23 +51,19 @@ main article {
     width:100% ;
     height:100% ;
     font-size: large;
-    #h text-shadow: 2px 2px 2px #aaa;
     margin: 100px;
     border: none;
     box-shadow: none;
     margin: 50px;
     margin-top: 1px;
-    padding: 1em;
- 
+    padding: 1em; 
 }
-
 section {
     border-radius: 80px;
     color: rgb(255, 255, 255);
     width:100% ;
     height:100% ;
     font-size: large;
-    #h text-shadow: 2px 2px 2px #aaa;
     margin: 100px;
     background-color: rgb(150, 180, 255);
     border: none;
@@ -85,7 +80,7 @@ th, td {
   padding: 10px;
   text-align: left;
   border:1px solid black;
-  background-color: rgb(52, 93, 147). ;
+  background-color: rgb(52, 93, 147);
 }
 img {
     float: right;
