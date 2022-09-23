@@ -88,6 +88,7 @@ img {
 }
 section img {
     float:inline-start;
+    object-fit: contain;
 }
 /* Mobile Phones */
 @media screen and (max-device-size:646px) {
@@ -96,5 +97,5 @@ section img {
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) {
 }
 /* Desktops */
-@media screen and (max-width: 100%)   {
+@media screen and (max-width: 100%) {
 
