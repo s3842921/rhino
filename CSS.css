@@ -75,6 +75,7 @@ section {
 table  {
     background-color: rgba(255, 214, 214, 0) ;
     float: left;
+    width: 50%;
 }
 th, td {
   padding: 10px;
